@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Kilig1210.github.io/Mywebsite//sitemap.xml
+Sitemap: https://www.yiying.online//sitemap.xml
