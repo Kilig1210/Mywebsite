@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Kilig1210.github.io/sitemap.xml
+Sitemap: https://Kilig1210.github.io/Mywebsite//sitemap.xml
