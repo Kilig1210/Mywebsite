@@ -20,6 +20,7 @@ social: true # includes social icons at the bottom of the page
 # **Yiying** PAN
 
 Hello, I'm Yiying Pan (also call me Starry). I am an undergraduate student majoring in **psychology** (cognitive neuroscience track) and minoring in  **Intensive Training Program of Innovation and Entrepreneurship**(One of the Chu Kochen Honors College minor) at the Zhejiang University, China (ranks 47nd in QS ranking). I'm expected to graduate in June, 2025.
+Welcome to know more about my in my [blog](https://kilig1210.github.io/).
 
 ## My Research
 
