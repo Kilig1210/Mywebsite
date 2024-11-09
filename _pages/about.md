@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -18,7 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# ABOUT ME
 
 Hello, I'm Yiying Pan (also call me Starry). I am an undergraduate student majoring in **psychology** (cognitive neuroscience track) and minoring in  **Intensive Training Program of Innovation and Entrepreneurship**(One of the Chu Kochen Honors College minor) at the Zhejiang University, China (ranks 47nd in QS ranking). I'm expected to graduate in June, 2025.
 

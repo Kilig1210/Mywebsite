@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - Mywebsite
-  - Kilig1210.github.io
-  - ZJU_coursework
+  - Kilig1210/Mywebsite
+  - Kilig1210/Kilig1210.github.io
+  - Kilig1210/ZJU_coursework
   
