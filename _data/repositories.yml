@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Kilig1210
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Mywebsite
+  - Kilig1210.github.io
+  - ZJU_coursework
+  
