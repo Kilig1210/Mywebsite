@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of selected projects.
+description: A growing collection of selected projects. This page is under construction.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
