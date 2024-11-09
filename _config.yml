@@ -169,8 +169,8 @@ giscus:
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: Starry's World
-    rss_url: https://Kilig1210.github.io
+  # - name: Starry's World
+  #   rss_url: https://Kilig1210.github.io
   # - name: Google Blog
   #   posts:
   #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
