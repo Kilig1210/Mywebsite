@@ -19,10 +19,11 @@ social: true # includes social icons at the bottom of the page
 ---
 # **Yiying** PAN
 
-Hello, I'm Yiying Pan (also call me Starry). I am an undergraduate student majoring in **psychology** (cognitive neuroscience track) and minoring in  **Intensive Training Program of Innovation and Entrepreneurship**(One of the Chu Kochen Honors College minor) at the Zhejiang University, China (ranks 47nd in QS ranking). I'm expected to graduate in June, 2025.
+I am an senior undergraduate student majoring in **psychology** (cognitive neuroscience track) and minoring in  **Intensive Training Program of Innovation and Entrepreneurship**(One of the Chu Kochen Honors College minor) at the Zhejiang University, China (ranks 47nd in QS ranking). I'm expected to graduate in June, 2025.
+
 Welcome to know more about my in my [blog](https://kilig1210.github.io/).
 
-## My Research
+## Research
 
 My research interests lie in **Computational Social Science, Human-Computer Interaction, Information Systems, and Marketing**, where I aspire to blend computer science and data science with psychological theories to solve real-world problems. I am now applying to Ph.D. and M.Phil. programs to deepen my expertise in these fields.
 
@@ -36,11 +37,11 @@ Welcome to check the details of them and my other programs in the [Projects Page
 
 You can *[email me](mailto:yiyingpan59@gmail.com)* for anything you are interested in: [yiyingpan59@gmail.com](mailto:yiyingpan59@gmail.com)
 
-## My Personality
+## Personality
 
 I am from [Wenzhou](https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%B7%9E%E5%B8%82), Zhejiang, a warm and charming city rich in community spirit. With an **ENFP** personality type, I thrive in social environments and actively engage with communities on platforms like CC98, Duoduo, WeChat, and Little Red Book. While I may be more reserved in person, I find great joy in conversing with individuals from diverse academic backgrounds, believing that the collision of different ideas fosters creativity and innovation. I consider myself sensitive and unique and I enjoy observing human behavior to better understand the world around me. Even in my twenties, I still have a deep love for life, literature, and art. I am filled with curiosity about the world. I aspire to be like Steve Jobs, someone who truly accomplishes things that change the world.
 
-## My Interests
+## Interests
 
 - **Food:** Delicious food is a significant aspect of my life. I frequently dine at restaurants such as Qingcai, Green Tea, Haidilao, and Meatbenjia. I have explored various chain establishments in Xixi Tianjie and YinTai, with favorites including Goodme grape tea and Chagee’s Spring Peach drink. 
 - **Literature and Music:** My cultural interests include Song Ci poetry, particularly the works of Su Shi, and I enjoy music from artists like Yin Lin and Huang Shifu, alongside a variety of contemporary pop musicians. As a dedicated user of NetEase Cloud Music, I also enjoy karaoke, even if my singing isn’t always on pitch.
