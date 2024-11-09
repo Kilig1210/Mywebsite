@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: PAN Yiying # the website title (if blank, full name will be used instead)
-first_name: PAN
+title: PAN Yiying's Personal Website # the website title (if blank, full name will be used instead)
+first_name: Yiying
 middle_name: 
-last_name: Yiying
+last_name: Pan
 email: yiyingpan59@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -205,7 +205,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 

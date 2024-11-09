@@ -17,7 +17,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
+# **Yiying** PAN
 
 Hello, I'm Yiying Pan (also call me Starry). I am an undergraduate student majoring in **psychology** (cognitive neuroscience track) and minoring in  **Intensive Training Program of Innovation and Entrepreneurship**(One of the Chu Kochen Honors College minor) at the Zhejiang University, China (ranks 47nd in QS ranking). I'm expected to graduate in June, 2025.
 
@@ -31,7 +31,7 @@ I served as a research assistant for one year in Professor [Weihua Zhou](https:/
 
 In addition, I am conducting an independent research project for my graduation thesis, titled “How Social Media Shapes Superiority: The Mediating Role of In-Group Preference and Out-Group Bias” (Advisor: [Prof.  Zhang Meng](https://person.zju.edu.cn/en/mz)). This study integrates cognitive psychology experimental methods, such as the Implicit Association Test, along with content analysis techniques.
 
-Welcome to check the details of them and my other programs in the [Projects Page](https://kilig1210.github.io/Projects/).
+Welcome to check the details of them and my other programs in the [Projects Page](https://www.yiying.online/projects/).
 
 You can *[email me](mailto:yiyingpan59@gmail.com)* for anything you are interested in: [yiyingpan59@gmail.com](mailto:yiyingpan59@gmail.com)
 
@@ -46,5 +46,3 @@ I am from [Wenzhou](https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%B7%9E%E5%B8%82), 
 - **Travel:** I also have a great passion for traveling. So far, I have traveled alone to over 30 cities across the country, experiencing the unique local customs and cultures of different places.
 - **Photography**: I've recently been learning about photography, and I enjoy capturing portraits and beautiful natural landscapes. During the summer of 2024, I participated in a photography course co-organized by Shanghai Jiao Tong University and Canon China, and I had the opportunity to showcase my work in an exhibition. You can also check out my [portfolio](https://drive.google.com/file/d/1LS80MukI5_iutNYooSV-2bqP8B43I-OF/view?usp=sharing).
 - **Art**: I've loved art since I was a child. I'm fascinated by the combination of colors, and I learned traditional Chinese painting when I was younger. Now, I'm learning oil painting.
-
-Looking ahead, I am contemplating a cross-disciplinary pursuit in Information Systems, while also considering a focus on quantitative social science within my major. My aspiration is to contribute positively to societal progress and economic development, rather than viewing profit as the sole purpose of my endeavors.
