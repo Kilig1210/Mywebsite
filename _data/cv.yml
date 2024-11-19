@@ -13,22 +13,23 @@
   contents:
     - title: B.S.
       institution: Zhejiang University
-      year: 2021
+      year: Sept. 2021 - Jun. 2025(Expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - B.S. Psychology (Cognitive Psychology track)
+        - Minor of Innovation and Entrepreneurship, Chu Kochen Honors College
+        - title: Coursework
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Major course: Statistics and Big Data Analysis (100), Experimental Design and Psychological Statistics(95), Experimental Programming in Psychology (95), Signals and Systems in Psychology (94), Algorithm of Cognitive Processes Simulation (96), Personality Psychology (94), Social Psychology (91)
+            - Minor course: Entrepreneurial Strategy(94), Marketing Research and Analysis (92), Entrepreneurial Marketing (92), New Products Development and Project Management (92), Management (92)
+            - Certificate: Deep Learning - 2023, with a duration of 128 hours, Neuromatch Academy
+    # - title: Federal teaching diploma
+      # institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      # year: 1900
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -94,4 +95,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> travelling, photography, etc.
