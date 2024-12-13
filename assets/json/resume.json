@@ -6,7 +6,7 @@
     "email": "yiyingpan59@gmail.com",
     "phone": "(86) 178-1569-0624",
     "url": "https://www.yiying.online/",
-    "summary": "I am a senior student at Zhejiang University, majoring in Psychology. I am interested in the field of information systems and data analysis. I am also interested in the field of psychology and have a deep understanding of human factors. ",
+    "summary": "I am a senior student at Zhejiang University, majoring in Psychology. I have a keen interest in information systems and data analysis. Additionally, I am passionate about psychology and possess a deep understanding of human factors. ",
     "location": {
       "address": "Room 211, Ziyun Building 5, Zijingang Campus, Zhejiang University",
       "postalCode": "310058",
@@ -33,20 +33,38 @@
       "endDate": "2025-06-30",
       "score": "3.94/4.0",
       "courses": [
-    "Statistics and Big Data Analysis",
-    "Experimental Design and Psychological Statistics",
-    "Experimental Programming in Psychology",
-    "Introduction to Cognitive Neuroscience",
-    "Signals and Systems in Psychology",
-    "Algorithm of Cognitive Processes Simulation"
-    ]     
+        "Statistics and Big Data Analysis",
+        "Experimental Design and Psychological Statistics",
+        "Experimental Programming in Psychology",
+        "Introduction to Cognitive Neuroscience",
+        "Signals and Systems in Psychology",
+        "Algorithm of Cognitive Processes Simulation"
+      ]
+    },
+    {
+      "institution": "Zhejiang University",
+      "location": "Hangzhou, China",
+      "url": "https://www.zju.edu.cn/english/",
+      "area": "Psychology, Innovation and Entrepreneurship",
+      "studyType": "Minor",
+      "startDate": "2022-03-01",
+      "endDate": "2025-06-30",
+      "score": "3.97/4.0",
+      "courses": [
+        "Entrepreneurial Strategy",
+        "Marketing Research and Analysis",
+        "Entrepreneurial Marketing",
+        "New Products Development and Project Management",
+        "Management"
+      ]
     }
   ],
+
   "volunteer": [
     {
-      "organization": "Youth with Rainbow, Growing Together online volunteer teaching",
-      "location": "Chongqing, China",
       "position": "Math Teacher",
+      "location": "Chongqing, China",
+      "organization": "Youth with Rainbow, Growing Together online volunteer teaching",
       "url": "https://dsj.cqytxy.edu.cn/info/1344/4634.htm",
       "startDate": "2022-06-01",
       "endDate": "2022-08-31",
