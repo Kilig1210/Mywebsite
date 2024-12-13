@@ -1,3 +1,5 @@
+# ...existing code...
+
 - title: General Information
   type: map
   contents:
@@ -22,12 +24,7 @@
             - Major course: Statistics and Big Data Analysis (100), Experimental Design and Psychological Statistics(95), Experimental Programming in Psychology (95), Signals and Systems in Psychology (94), Algorithm of Cognitive Processes Simulation (96), Personality Psychology (94), Social Psychology (91)
             - Minor course: Entrepreneurial Strategy(94), Marketing Research and Analysis (92), Entrepreneurial Marketing (92), New Products Development and Project Management (92), Management (92)
             - Certificate: Deep Learning - 2023, with a duration of 128 hours, Neuromatch Academy
-    # - title: Federal teaching diploma
-      # institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      # year: 1900
-      # description:
-      #   - Description 1.
-      #   - Description 2.
+    # ...existing code...
 
 - title: Research Experience
   type: time_table
@@ -95,4 +92,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> travelling, photography, etc.
+    - <u>Hobbies:</u> travelling, photography, etc. 

@@ -22,17 +22,6 @@
       }
     ]
   },
-  "volunteer": [
-    {
-      "organization": "Youth with Rainbow, Growing Together online volunteer teaching",
-      "location": "Chongqing, China",
-      "position": "Math Teacher",
-      "url": "https://dsj.cqytxy.edu.cn/info/1344/4634.htm",
-      "startDate": "2022-06-01",
-      "endDate": "2022-08-31",
-      "summary": "Engaged with two students, delivered two lessons per week, tailored the content to meet their needs. Taught high school mathematics courses, selected exemplary problems for tests"
-    }
-  ],
   "education": [
     {
       "institution": "Zhejiang University",
@@ -47,10 +36,21 @@
     "Statistics and Big Data Analysis",
     "Experimental Design and Psychological Statistics",
     "Experimental Programming in Psychology",
-    "Introduction to Cognitive Neuroscience (98)",
-    "Signals and Systems in Psychology (94)",
+    "Introduction to Cognitive Neuroscience",
+    "Signals and Systems in Psychology",
     "Algorithm of Cognitive Processes Simulation"
     ]     
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Youth with Rainbow, Growing Together online volunteer teaching",
+      "location": "Chongqing, China",
+      "position": "Math Teacher",
+      "url": "https://dsj.cqytxy.edu.cn/info/1344/4634.htm",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "summary": "Engaged with two students, delivered two lessons per week, tailored the content to meet their needs. Taught high school mathematics courses, selected exemplary problems for tests"
     }
   ],
   "awards": [
@@ -108,13 +108,6 @@
       "issuer": "Neuromatch Academy",
       "url": "https://neuromatch.io/",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Outstanding Volunteer",
-      "date": "2022-12-01",
-      "issuer": "Zhejiang University",
-      "url": "",
-      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
@@ -170,26 +163,51 @@
       "icon": ""
     }
   ],
-    "interests": [
-      {
-        "name": "Food",
-        "summary": "Delicious food is a significant aspect of my life. I frequently dine at restaurants such as Qingcai, Green Tea, Haidilao, and Meatbenjia. I have explored various chain establishments in Xixi Tianjie and YinTai, with favorites including Goodme grape tea and Chagee’s Spring Peach drink."
-      },
-      {
-        "name": "Literature and Music",
-        "summary": "My cultural interests include Song Ci poetry, particularly the works of Su Shi, and I enjoy music from artists like Yin Lin and Huang Shifu, alongside a variety of contemporary pop musicians. As a dedicated user of NetEase Cloud Music, I also enjoy karaoke, even if my singing isn’t always on pitch."
-      },
-      {
-        "name": "Travel",
-        "summary": "I also have a great passion for traveling. So far, I have traveled alone to over 30 cities across the country, experiencing the unique local customs and cultures of different places."
-      },
-      {
-        "name": "Photography",
-        "summary": "I’ve recently been learning about photography, and I enjoy capturing portraits and beautiful natural landscapes. During the summer of 2024, I participated in a photography course co-organized by Shanghai Jiao Tong University and Canon China, and I had the opportunity to showcase my work in an exhibition. You can also check out my portfolio."
-      },
-      {
-        "name": "Art",
-        "summary": "I’ve loved art since I was a child. I’m fascinated by the combination of colors, and I learned traditional Chinese painting when I was younger. Now, I’m learning oil painting."
-      }
-    ]
+  "interests": [
+    {
+      "name": "Food",
+      "keywords": [
+        "Jiangsu Cuisine",
+        "Wenzhou Cuisine",
+        "Italian Cuisine",
+        "France Cuisine",
+        "Spanish Cuisine"
+      ]
+    },
+    {
+      "name": "Literature and Music",
+      "keywords": [
+        "Classical Music",
+        "Popular Music",
+        "Chinese Poetry",
+        "British Literature"
+      ]
+    },
+    {
+      "name": "Travel",
+      "keywords": [
+        "Beijing",
+        "Shanghai",
+        "Hangzhou",
+        "Chengdu",
+        "Shandong"
+      ]
+    },
+    {
+      "name": "Photography",
+      "keywords": [
+        "Portrait",
+        "Landscape",
+        "Street",
+        "Documentary"
+      ]
+    },
+    {
+      "name": "Art", 
+      "keywords": [
+        "Oil Painting",
+        "Digital Art"
+      ]
+    }
+  ]
 }
