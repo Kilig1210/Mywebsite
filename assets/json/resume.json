@@ -80,11 +80,13 @@
     },
     {
       "title": "Guo Xie-Bi Rong Scholarship (First Class)",
+      "awarder": "Zhejiang University",
       "date": "2023",
       "summary": "Awarded to 20 out of 6000+ undergraduates"
     },
     {
       "title": "Nan Du Scholarship",
+      "awarder": "Zhejiang University",
       "date": "2022",
       "summary": "Awarded to 6 out of 1800+ undergraduates"
     },
@@ -101,6 +103,14 @@
     {
       "title": "Innovation and Entrepreneurship Model",
       "date": "2023, 2024"
+    },
+    {
+      "title": "International Exchange Model",
+      "date": "2023, 2024"
+    },
+    {
+      "title": "Community Service Model",
+      "date": "2022, 2023"
     },
     {
       "title": "Honorable Mention in Mathematical Contest In Modeling",
