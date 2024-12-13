@@ -41,8 +41,6 @@ You can *[email me](mailto:yiyingpan59@gmail.com)* if you are interested in my w
 
 I am from [Wenzhou](https://zh.wikipedia.org/wiki/%E6%B8%A9%E5%B7%9E%E5%B8%82), Zhejiang, a warm and charming city rich in community spirit. With an **ENFP** personality type, I thrive in social environments and actively engage with communities on platforms like CC98, Duoduo, WeChat, and Little Red Book. While I may be more reserved in person, I find great joy in conversing with individuals from diverse academic backgrounds, believing that the collision of different ideas fosters creativity and innovation.
 
-
-
 ## Entrepreneurship
 
 I consider myself sensitive and unique, enjoying the observation of human behavior to better understand the world around me. Even in my twenties, I still have a deep love for life, literature, and art, and I am filled with curiosity about the world. 
