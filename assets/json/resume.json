@@ -1,134 +1,166 @@
 {
   "basics": {
     "name": "Pan Yiying",
-    "label": "Scientist",
+    "label": "Sienor Student @ Zhejiang University",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yiyingpan59@gmail.com",
+    "phone": "(86) 178-1569-0624",
+    "url": "https://www.yiying.online/",
+    "summary": "I am a senior student at Zhejiang University, majoring in Psychology. I am interested in the field of information systems and data analysis. I am also interested in the field of psychology and have a deep understanding of human factors. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Room 211, Ziyun Building 5, Zijingang Campus, Zhejiang University",
+      "postalCode": "310058",
+      "city": "Hangzhou",
+      "countryCode": "CN",
+      "region": "Zhejiang"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "starryiying",
+        "url": "https://x.com/starryiying"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Youth with Rainbow, Growing Together online volunteer teaching",
+      "location": "Chongqing, China",
+      "position": "Math Teacher",
+      "url": "https://dsj.cqytxy.edu.cn/info/1344/4634.htm",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "summary": "Engaged with two students, delivered two lessons per week, tailored the content to meet their needs. Taught high school mathematics courses, selected exemplary problems for tests"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Zhejiang University",
+      "location": "Hangzhou, China",
+      "url": "https://www.zju.edu.cn/english/",
+      "area": "Psychology, Innovation and Entrepreneurship",
+      "studyType": "Bachelor",
+      "startDate": "2021-09-01",
+      "endDate": "2025-06-30",
+      "score": "3.94/4.0",
+      "courses": [
+    "Statistics and Big Data Analysis",
+    "Experimental Design and Psychological Statistics",
+    "Experimental Programming in Psychology",
+    "Introduction to Cognitive Neuroscience (98)",
+    "Signals and Systems in Psychology (94)",
+    "Algorithm of Cognitive Processes Simulation"
+    ]     
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "1st Class Scholarship",
+      "date": "2024",
+      "awarder": "Zhejiang University",
+      "summary": "Awarded to top 3% students"
+    },
+    {
+      "title": "Guo Xie-Bi Rong Scholarship (First Class)",
+      "date": "2023",
+      "summary": "Awarded to 20 out of 6000+ undergraduates"
+    },
+    {
+      "title": "Nan Du Scholarship",
+      "date": "2022",
+      "summary": "Awarded to 6 out of 1800+ undergraduates"
+    },
+    {
+      "title": "Outstanding Volunteer",
+      "date": "2023",
+      "awarder": "Zhejiang University",
+      "summary": "Over 250 hours of volunteer service"
+    },
+    {
+      "title": "Academic Excellence Model",
+      "date": "2022, 2023, 2024"
+    },
+    {
+      "title": "Innovation and Entrepreneurship Model",
+      "date": "2023, 2024"
+    },
+    {
+      "title": "Honorable Mention in Mathematical Contest In Modeling",
+      "date": "2024"
+    },
+    {
+      "title": "2nd Prize in National Mathematics Competition for College Students",
+      "date": "2023"
+    },
+    {
+      "title": "3rd Prize in Zhejiang University Mathematical Modeling Competition",
+      "date": "2023"
+    },
+    {
+      "title": "2nd Prize in Zhejiang Province Higher Mathematics Competition (Engineering Category)",
+      "date": "2022"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Deep Learning",
+      "date": "2023-07-21",
+      "issuer": "Neuromatch Academy",
+      "url": "https://neuromatch.io/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Outstanding Volunteer",
+      "date": "2022-12-01",
+      "issuer": "Zhejiang University",
+      "url": "",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Data Analysis",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AMOS & Mplus (Structural Equation Model)",
+        "SPSS (Statistical Test & ANOVA & EFA)",
+        "Tableau (Chart Visualization & Dashboard Design)",
+        "Stata (Multiple Regression Model & Cross-section Data Analysis)"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Matlab (Psychotoolbox & Signal Processing Toolbox)",
+        "Python",
+        "R",
+        "LATEX"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git/GitHub",
+        "VS Code",
+        "PyCharm/IDEA",
+        "Microsoft Office",
+        "Zotero",
+        "Qualtrics",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Technical",
+      "keywords": [
+        "Questionnaire data analysis",
+        "Experimental design",
+        "Eye Tracking",
+        "Meta analysis"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Madarin",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -138,29 +170,26 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+    "interests": [
+      {
+        "name": "Food",
+        "summary": "Delicious food is a significant aspect of my life. I frequently dine at restaurants such as Qingcai, Green Tea, Haidilao, and Meatbenjia. I have explored various chain establishments in Xixi Tianjie and YinTai, with favorites including Goodme grape tea and Chagee’s Spring Peach drink."
+      },
+      {
+        "name": "Literature and Music",
+        "summary": "My cultural interests include Song Ci poetry, particularly the works of Su Shi, and I enjoy music from artists like Yin Lin and Huang Shifu, alongside a variety of contemporary pop musicians. As a dedicated user of NetEase Cloud Music, I also enjoy karaoke, even if my singing isn’t always on pitch."
+      },
+      {
+        "name": "Travel",
+        "summary": "I also have a great passion for traveling. So far, I have traveled alone to over 30 cities across the country, experiencing the unique local customs and cultures of different places."
+      },
+      {
+        "name": "Photography",
+        "summary": "I’ve recently been learning about photography, and I enjoy capturing portraits and beautiful natural landscapes. During the summer of 2024, I participated in a photography course co-organized by Shanghai Jiao Tong University and Canon China, and I had the opportunity to showcase my work in an exhibition. You can also check out my portfolio."
+      },
+      {
+        "name": "Art",
+        "summary": "I’ve loved art since I was a child. I’m fascinated by the combination of colors, and I learned traditional Chinese painting when I was younger. Now, I’m learning oil painting."
+      }
+    ]
 }
