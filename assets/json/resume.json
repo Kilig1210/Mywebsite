@@ -6,7 +6,7 @@
     "email": "yiyingpan59@gmail.com",
     "phone": "(86) 178-1569-0624",
     "website": "https://www.yiying.online/",
-    "summary": "I am a senior student at Zhejiang University, majoring in Psychology. I have a keen interest in information systems and data analysis. Additionally, I am passionate about psychology and possess a deep understanding of human factors. ",
+    "birthday": "Dec. 10th, 2002",
     "location": {
       "address": "Room 211, Ziyun Building 5, Zijingang Campus, Zhejiang University",
       "postalCode": "310058",
@@ -18,7 +18,7 @@
       {
         "network": "Twitter",
         "username": "starryiying",
-        "url": "https://x.com/starryiying"
+        "url": "https://x.com/starryiying/"
       }
     ]
   },
