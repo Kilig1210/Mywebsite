@@ -33,7 +33,7 @@ I also served as a research assistant for one year in the research group of [Pro
 
 Moreover, I am conducting an independent research project for my graduation thesis titled “How Social Media Shapes Superiority: The Mediating Role of In-Group Preference and Out-Group Bias,” advised by [Prof. Zhang Meng](https://person.zju.edu.cn/en/mz). This study integrates cognitive psychology experimental methods, such as the Implicit Association Test, along with content analysis techniques.
 
-Feel free to explore the details of these and my other projects on the [Projects Page](https://www.yiying.online/projects/).
+Feel free to explore the details of these and my other projects on the [Projects Page](https://yiying1210.dpdns.org/projects/).
 
 You can *[email me](mailto:yiyingpan59@gmail.com)* if you are interested in my work or have any questions: [yiyingpan59@gmail.com](mailto:yiyingpan59@gmail.com)
 
